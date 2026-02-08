@@ -1,0 +1,14 @@
+keypoints/*
+
+models/*
+model_checkpoint/*
+llm/*
+
+src/__pycache__/*
+utils/openpose/*
+utils/youtube-dl.exe
+
+cache/*
+dataset/*
+
+.venv*/*
